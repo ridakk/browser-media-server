@@ -1,0 +1,19 @@
+{
+  "name": "browser-media-server",
+  "version": "1.0.0",
+  "description": "Running simple media server on browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridakk/browser-media-server.git"
+  },
+  "author": "Kadir Goktas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ridakk/browser-media-server/issues"
+  },
+  "homepage": "https://github.com/ridakk/browser-media-server#readme"
+}
